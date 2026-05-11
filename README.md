@@ -35,3 +35,11 @@ marketing-data-quality-toolkit/
 ├── clean_marketing_data.py
 │
 └── README.md
+
+## Screenshots
+
+### Excel Dashboard
+![Excel Dashboard](screenshots/excel-dashboard.png)
+
+### Python Report Output
+![Python Report](screenshots/python-report.png)
