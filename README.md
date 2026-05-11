@@ -28,18 +28,13 @@ marketing-data-quality-toolkit/
 ├── data/
 │   ├── raw_marketing_data.csv
 │   └── cleaned_marketing_data.csv
-│
+├── screenshots/
+│   ├── dashboard.png
+│   └── clean_data.png
+│   └── terminal_running.png
 ├── reports/
 │   └── data_quality_report.txt
 │
 ├── clean_marketing_data.py
 │
 └── README.md
-
-## Screenshots
-
-### Excel Dashboard
-![Excel Dashboard](screenshots/excel-dashboard.png)
-
-### Python Report Output
-![Python Report](screenshots/python-report.png)
