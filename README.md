@@ -28,12 +28,14 @@ marketing-data-quality-toolkit/
 ├── data/
 │   ├── raw_marketing_data.csv
 │   └── cleaned_marketing_data.csv
+│
+├── reports/
+│   └── data_quality_report.txt
+│
 ├── screenshots/
 │   ├── dashboard.png
 │   └── clean_data.png
 │   └── terminal_running.png
-├── reports/
-│   └── data_quality_report.txt
 │
 ├── clean_marketing_data.py
 │
