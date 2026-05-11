@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Product_Family,Region,Channel,Campaign,Leads,Clicks,Impressions,Budget_EUR,Owner,Last_Updated,Status,Data_Quality_Flag,Update_Status,Click_Through_Rate,Cost_Per_Lead
+IFX-001,Power MOSFET A,Power Management,EMEA,LinkedIn,Q2 Awareness,120,430,12000,850,Marketing Ops,2026-05-01,Active,Complete,Up-to-date,0.035833333333333335,7.083333333333333
+IFX-002,Sensor Module B,Sensors,APAC,Webinar,Product Launch,85,210,7000,620,Product Marketing,2026-04-28,Active,Complete,Up-to-date,0.03,7.294117647058823
+IFX-003,MCU Starter Kit,Microcontrollers,Americas,Email,Developer Campaign,160,390,15000,740,Sales Enablement,2026-04-22,Review,Complete,Up-to-date,0.026,4.625
+IFX-004,Automotive Radar Sensor,Automotive,EMEA,Trade Fair,Automotive Campaign,95,180,9800,1100,Application Engineering,2026-03-15,Active,Complete,Needs Update,0.018367346938775512,11.578947368421053
+IFX-005,Security Controller X,Security ICs,EMEA,Website,Industrial Campaign,70,155,6200,480,Digital Marketing,2026-05-03,Active,Complete,Up-to-date,0.025,6.857142857142857
+IFX-006,Bluetooth Module C,Connectivity,APAC,Newsletter,Newsletter Push,135,310,11200,540,Marketing Ops,2026-04-05,Completed,Complete,Needs Update,0.027678571428571427,4.0
+IFX-007,Gate Driver IC,Power Management,EMEA,LinkedIn,Q2 Awareness,105,275,9100,670,Product Marketing,2026-05-06,Active,Complete,Up-to-date,0.03021978021978022,6.380952380952381
+IFX-008,Voltage Regulator Pro,Power Management,Americas,Email,Product Launch,150,360,13500,790,Sales Enablement,2026-04-18,Review,Complete,Up-to-date,0.02666666666666667,5.266666666666667
+IFX-009,Pressure Sensor Plus,Sensors,APAC,Webinar,Industrial Campaign,90,220,7600,610,Application Engineering,2026-03-28,Paused,Complete,Needs Update,0.02894736842105263,6.777777777777778
+IFX-010,Industrial MCU Board,Microcontrollers,EMEA,Website,Developer Campaign,175,420,16800,900,Digital Marketing,2026-05-02,Active,Complete,Up-to-date,0.025,5.142857142857143
+IFX-011,Smart Power Switch,Power Management,EMEA,Trade Fair,Automotive Campaign,115,260,10200,980,Marketing Ops,2026-03-20,Review,Complete,Needs Update,0.025490196078431372,8.521739130434783
+IFX-012,NFC Security IC,Security ICs,APAC,LinkedIn,Product Launch,65,140,5300,430,Product Marketing,2026-04-25,Active,Complete,Up-to-date,0.026415094339622643,6.615384615384615
+IFX-013,Radar Evaluation Kit,Automotive,Americas,Webinar,Automotive Campaign,140,330,12100,1250,Application Engineering,2026-05-04,Active,Complete,Up-to-date,0.02727272727272727,8.928571428571429
+IFX-014,Temperature Sensor Mini,Sensors,EMEA,Newsletter,Newsletter Push,100,240,8700,390,Digital Marketing,2026-04-02,Completed,Complete,Needs Update,0.027586206896551724,3.9
+IFX-015,WiFi Control Module,Connectivity,APAC,Email,Developer Campaign,155,370,14300,820,Sales Enablement,2026-03-30,Active,Complete,Needs Update,0.025874125874125874,5.290322580645161
+IFX-016,Motor Control IC,Automotive,EMEA,LinkedIn,Industrial Campaign,130,295,11800,950,Marketing Ops,2026-04-29,Review,Complete,Up-to-date,0.025,7.3076923076923075
+IFX-017,Embedded Security Chip,Security ICs,Americas,Website,Q2 Awareness,80,170,6400,520,Product Marketing,2026-05-05,Active,Complete,Up-to-date,0.0265625,6.5
+IFX-018,Power Management Board,Power Management,APAC,Trade Fair,Product Launch,145,350,13200,870,Application Engineering,2026-04-10,Paused,Complete,Needs Update,0.026515151515151516,6.0
+IFX-019,Proximity Sensor Kit,Sensors,EMEA,Webinar,Industrial Campaign,75,165,5900,460,Digital Marketing,2026-03-18,Review,Complete,Needs Update,0.027966101694915254,6.133333333333334
+IFX-020,MCU Development Board,Microcontrollers,Americas,Newsletter,Developer Campaign,190,450,18000,990,Sales Enablement,2026-05-07,Active,Complete,Up-to-date,0.025,5.2105263157894735
+IFX-021,Automotive Control Unit,Automotive,EMEA,Email,Automotive Campaign,125,285,10900,1150,Application Engineering,2026-04-15,Active,Complete,Up-to-date,0.02614678899082569,9.2
+IFX-022,Secure Payment IC,Security ICs,APAC,LinkedIn,Product Launch,60,125,4900,410,Marketing Ops,2026-04-01,Completed,Complete,Needs Update,0.025510204081632654,6.833333333333333
+IFX-023,Low Power Bluetooth IC,Connectivity,Americas,Website,Q2 Awareness,110,270,9400,630,Digital Marketing,2026-05-06,Active,Complete,Up-to-date,0.02872340425531915,5.7272727272727275
+IFX-024,Current Sensor Module,Sensors,EMEA,Trade Fair,Industrial Campaign,88,205,7300,570,Product Marketing,2026-03-25,Paused,Complete,Needs Update,0.028082191780821917,6.4772727272727275
+IFX-025,High Voltage Gate Driver,Power Management,APAC,Webinar,Automotive Campaign,118,265,10100,1020,Sales Enablement,2026-04-20,Review,Complete,Up-to-date,0.026237623762376237,8.64406779661017
+IFX-026,MCU Starter Kit,Microcontrollers,EMEA,Email,Developer Campaign,165,400,15400,760,Application Engineering,2026-05-01,Active,Complete,Up-to-date,0.025974025974025976,4.606060606060606
+IFX-027,Automotive Radar Sensor,Automotive,APAC,LinkedIn,Q2 Awareness,102,235,8800,1040,Marketing Ops,2026-04-27,Active,Complete,Up-to-date,0.026704545454545453,10.196078431372548
+IFX-028,Security Controller X,Security ICs,Americas,Newsletter,Newsletter Push,58,118,4500,390,Product Marketing,2026-03-10,Completed,Complete,Needs Update,0.026222222222222223,6.724137931034483
+IFX-029,Voltage Regulator Pro,Power Management,EMEA,Website,Industrial Campaign,142,325,12700,810,Digital Marketing,2026-05-03,Active,Complete,Up-to-date,0.025590551181102362,5.704225352112676
+IFX-030,Sensor Module B,Sensors,APAC,Trade Fair,Product Launch,92,215,7900,650,Application Engineering,2026-04-06,Review,Complete,Needs Update,0.02721518987341772,7.065217391304348
+IFX-031,Power MOSFET A,Power Management,EMEA,LinkedIn,Q2 Awareness,122,435,12100,855,Marketing Ops,2026-05-01,Active,Complete,Up-to-date,0.03595041322314049,7.008196721311475
+IFX-032,Industrial MCU Board,Microcontrollers,Americas,Webinar,Developer Campaign,180,440,17200,930,Sales Enablement,2026-04-21,Active,Complete,Up-to-date,0.02558139534883721,5.166666666666667
+IFX-033,Smart Power Switch,,EMEA,Email,Automotive Campaign,108,250,9700,940,Product Marketing,2026-03-12,Review,Incomplete,Needs Update,0.02577319587628866,8.703703703703704
+IFX-034,NFC Security IC,Security ICs,APAC,Website,Product Launch,68,148,5400,440,,2026-05-04,Active,Incomplete,Up-to-date,0.027407407407407408,6.470588235294118
+IFX-035,Radar Evaluation Kit,Automotive,Americas,Trade Fair,Automotive Campaign,138,322,11900,1240,Application Engineering,,Paused,Complete,Needs Update,0.027058823529411764,8.985507246376812
+IFX-036,Temperature Sensor Mini,Sensors,EMEA,Newsletter,Newsletter Push,96,230,8500,380,Digital Marketing,2026-04-03,Completed,Complete,Needs Update,0.027058823529411764,3.9583333333333335
+IFX-037,WiFi Control Module,Connectivity,APAC,Email,Developer Campaign,152,365,14000,805,Sales Enablement,2026-03-29,Active,Complete,Needs Update,0.026071428571428572,5.296052631578948
+IFX-038,Motor Control IC,Automotive,EMEA,LinkedIn,Industrial Campaign,128,290,11600,940,,2026-04-30,Review,Incomplete,Up-to-date,0.025,7.34375
+IFX-039,Embedded Security Chip,Security ICs,Americas,Website,Q2 Awareness,82,175,6500,530,Product Marketing,2026-05-05,Active,Complete,Up-to-date,0.026923076923076925,6.463414634146342
+IFX-040,Power Management Board,Power Management,APAC,Trade Fair,Product Launch,148,355,13400,880,Application Engineering,2026-04-11,Paused,Complete,Up-to-date,0.026492537313432835,5.945945945945946
+IFX-041,Proximity Sensor Kit,Sensors,EMEA,Webinar,Industrial Campaign,78,170,6100,470,Digital Marketing,2026-03-16,Review,Complete,Needs Update,0.027868852459016394,6.0256410256410255
+IFX-042,MCU Development Board,Microcontrollers,Americas,Newsletter,Developer Campaign,195,460,18200,1000,Sales Enablement,2026-05-06,Active,Complete,Up-to-date,0.025274725274725275,5.128205128205129
+IFX-043,Automotive Control Unit,Automotive,EMEA,Email,Automotive Campaign,122,280,10600,1130,Application Engineering,2026-04-13,Active,Complete,Up-to-date,0.026415094339622643,9.262295081967213
+IFX-044,Secure Payment IC,Security ICs,APAC,LinkedIn,Product Launch,62,130,5000,420,Marketing Ops,2026-04-02,Completed,Complete,Needs Update,0.026,6.774193548387097
+IFX-045,Low Power Bluetooth IC,Connectivity,Americas,Website,Q2 Awareness,112,275,9500,640,Digital Marketing,2026-05-07,Active,Complete,Up-to-date,0.02894736842105263,5.714285714285714
+IFX-046,Current Sensor Module,Sensors,EMEA,Trade Fair,Industrial Campaign,85,198,7100,555,Product Marketing,,Paused,Complete,Needs Update,0.027887323943661974,6.529411764705882
+IFX-047,High Voltage Gate Driver,Power Management,APAC,Webinar,Automotive Campaign,116,260,9950,1010,Sales Enablement,2026-04-19,Review,Complete,Up-to-date,0.02613065326633166,8.706896551724139
+IFX-048,MCU Starter Kit,Microcontrollers,EMEA,Email,Developer Campaign,168,405,15600,770,Application Engineering,2026-05-02,Active,Complete,Up-to-date,0.025961538461538463,4.583333333333333
+IFX-049,Automotive Radar Sensor,Automotive,APAC,LinkedIn,Q2 Awareness,99,228,8600,1030,Marketing Ops,2026-04-24,Active,Complete,Up-to-date,0.026511627906976743,10.404040404040405
+IFX-050,Security Controller X,Security ICs,Americas,Newsletter,Newsletter Push,55,112,4400,380,Product Marketing,2026-03-08,Completed,Complete,Needs Update,0.025454545454545455,6.909090909090909
