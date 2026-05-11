@@ -1,0 +1,24 @@
+
+Marketing Data Quality Report
+=============================
+
+Total cleaned records: 50
+Duplicates removed: 6
+
+Data Quality
+------------
+Complete records: 47
+Incomplete records: 3
+Records needing update: 20
+
+Marketing Performance
+---------------------
+Total leads: 5754
+Total budget: 37735.00 EUR
+Average click-through rate: 2.69%
+Average cost per lead: 6.72 EUR
+
+Purpose
+-------
+This report was generated automatically using Python to demonstrate basic
+data cleaning, data validation, and reporting for marketing/product data.
