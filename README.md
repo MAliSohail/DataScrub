@@ -1,6 +1,8 @@
 # Marketing Data Quality Toolkit
 
-This project demonstrates basic data cleaning, validation, and reporting using Python. It was created as a practical preparation project for working student roles involving data governance, application engineering, marketing data, and automation.
+This project demonstrates basic data cleaning, validation, and reporting using Python. The goal was to automate the repetitive parts of cleaning a marketing dataset: standardising inconsistent text, removing duplicates, flagging records that are incomplete or out of date, and producing a summary report.
+
+<img width="1920" height="1080" alt="DataScrub_preview" src="https://github.com/user-attachments/assets/d3789513-d929-4409-a342-2d5b271b041e" />
 
 ## Project Overview
 
